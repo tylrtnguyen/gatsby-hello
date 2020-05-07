@@ -1,4 +1,4 @@
-https://www.contentful.com/help/personal-access-tokens/
+[![Build Status](https://travis-ci.com/tylrtnguyen/gatsby-hello.svg?branch=master)](https://travis-ci.com/tylrtnguyen/gatsby-hello)
 ## Personal Blog built with Gatsby, GraphQL and Contentful API
 #### Template used: gatsby-starter-hello-world
 #### Template URL: https://github.com/gatsbyjs/gatsby-starter-hello-world
